@@ -1,5 +1,5 @@
 <!-- 1. TOPO CENTRALIZADO (Animação do título) -->
-<div>
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+me+chamo+Natanael+Felipe!;Front-end+Developer;" alt="Typing SVG" />
   </a>
@@ -8,17 +8,20 @@
 <br />
 
 <!-- 2. IMAGEM FLUTUANTE À DIREITA E TEXTO À ESQUERDA -->
-<div>
-  <!-- A tag img com align="right" joga a imagem para o canto direito -->
-  <img width="400" align="right" alt="Programador" src="https://github.com/user-attachments/assets/149645a9-1380-44cf-ac6d-3ac7917ac33e" />
+<div align="center">
 
   <p>
     Desenvolvedor Front-end, sou um apreciador da área de tecnologia desde a adolescência e sou movido pela curiosidade de entender a lógica por trás dos sistemas. Atualmente, foco meus estudos práticos no desenvolvimento de aplicações web modernas utilizando <b>HTML5 semântico</b>, <b>CSS3</b>, manipulação dinâmica do DOM em <b>JavaScript (Vanilla)</b>, armazenamento local e versionamento com <b>Git/GitHub</b>, com forte expansão para <b>React</b>.
   </p>
 </div>
 
+<br />
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #7000ff, #00f0ff); margin: 30px 0;" />
+<br />
 <!-- 3. REDES E STACK CENTRALIZADAS -->
 <div>
+  <!-- A tag img com align="right" joga a imagem para o canto direito -->
+  <img width="300" align="right" alt="programador" src="https://github.com/user-attachments/assets/27fca67c-8b5f-49c5-9760-c427fb1b2be7" />
 
   <h3>Connect with me:</h3>
   

@@ -11,7 +11,7 @@
 <div align="center">
 
   <p>
-    Desenvolvedor Front-end, sou um apreciador da área de tecnologia desde a adolescência e sou movido pela curiosidade de entender a lógica por trás dos sistemas. Atualmente, foco meus estudos práticos no desenvolvimento de aplicações web modernas utilizando <b>HTML5 semântico</b>, <b>CSS3</b>, manipulação dinâmica do DOM em <b>JavaScript (Vanilla)</b>, armazenamento local e versionamento com <b>Git/GitHub</b>, com forte expansão para <b>React</b>.
+    Desenvolvedor Front-end, admirador da área de tecnologia desde a adolescência e sou movido pela curiosidade de entender a lógica por trás dos sistemas. Atualmente, foco meus estudos práticos no desenvolvimento de aplicações web modernas utilizando <b>HTML5 semântico</b>, <b>CSS3</b>, manipulação dinâmica do DOM em <b>JavaScript (Vanilla)</b>, armazenamento local e versionamento com <b>Git/GitHub</b>, com forte expansão para <b>React</b>.
   </p>
 </div>
 
